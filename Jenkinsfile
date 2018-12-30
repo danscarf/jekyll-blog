@@ -11,5 +11,10 @@ pipeline {
         sh 'jekyll build'
       }
     }
+    stage('Publish to S3') {
+      steps {
+        echo 'Publishing to S3'
+      }
+    }
   }
 }
