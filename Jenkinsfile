@@ -3,7 +3,12 @@ pipeline {
   stages {
     stage('Checkout') {
       steps {
-        echo 'This is a stage'
+        echo 'Code checked out. Build starting.'
+      }
+    }
+    stage('Build') {
+      steps {
+        sh 'jekyll build'
       }
     }
   }
