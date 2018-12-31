@@ -80,7 +80,7 @@ encoding: utf-8 # Make sure the encoding is right
 lang: en-US # Set the site language
 title: "JoeShmoe.com" # Site name or title, also used in jekyll-seo-tag
 logo: "/assets/logo.svg" # Site logo, also used in jekyll-seo-tag
-description: "Joe Schmoe's personal space on the web. Please look through my blog articles and let me know if you have any questions." # Site description and default description, also used in jekyll-seo-tag
+description: "Joe Schmoes personal space on the web. Please look through my blog articles and let me know if you have any questions." # Site description and default description, also used in jekyll-seo-tag
 url: "https://alembic.darn.es" # Site url, also used in jekyll-seo-tag
 baseurl: ""
 repo: "https://github.com/daviddarnes/alembic"
