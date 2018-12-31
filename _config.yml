@@ -1,3 +1,5 @@
+theme: alembic-jekyll-theme
+
 # Site configuration
 # 1. Files excluded from Jekyll builds
 # 2. Installed Gems
