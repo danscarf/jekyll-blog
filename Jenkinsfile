@@ -8,6 +8,7 @@ pipeline {
     stage('Checkout') {
       steps {
         echo 'Code checked out. Build starting.'
+        echo "AWS Bucket: ${env.AWS_S3_BUCKET_NAME}"
       }
     }
     stage('Build') {
