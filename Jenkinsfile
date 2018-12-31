@@ -13,7 +13,8 @@ pipeline {
     }
     stage('Build') {
       steps {
-        sh 'jekyll build'
+	sh 'bundle install'
+        sh 'bundle exec jekyll build'
       }
     }
     stage('Publish to S3') {
