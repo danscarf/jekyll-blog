@@ -9,8 +9,6 @@ pipeline {
       steps {
         echo 'Code checked out. Build starting.'
         echo "AWS Bucket: ${env.AWS_S3_BUCKET_NAME}"
-        def bucketName = "${env.AWS_S3_BUCKET_NAME}"
-        echo bucketName
       }
     }
     stage('Build') {
