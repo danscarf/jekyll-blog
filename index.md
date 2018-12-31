@@ -1,10 +1,11 @@
 ---
-title: About Alembic
+title: Joe Shmoe's Home
 feature_text: |
   ## Alembic
-  A Jekyll boilerplate theme designed to be a starting point for any Jekyll website
+  Welcome to Joe Shmoe's personal corner of the web.
 feature_image: "https://picsum.photos/1300/400?image=989"
-excerpt: "Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately. Install it, configure it, tweak it, push it."
+excerpt: "This site is a starting point for me to describe my projects."
+aside: true
 ---
 
 Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately. Install it, configure it, tweak it, push it.
