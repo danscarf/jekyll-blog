@@ -1,5 +1,9 @@
 pipeline {
   agent any
+  environment {
+    AWS_S3_BUCKET_NAME = credentials('aws-s3-bucket-name')
+  }
+
   stages {
     stage('Checkout') {
       steps {
