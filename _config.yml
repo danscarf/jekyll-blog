@@ -96,6 +96,7 @@ navigation_header:
   Home: /
   Blog: /blog/
   Categories: /categories/
+  Contact: /contact/
   Search: /search/
 
 navigation_footer:
