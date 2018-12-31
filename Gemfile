@@ -30,5 +30,3 @@ gem "wdm", "~> 0.1.0" if Gem.win_platform?
 
 gem "alembic-jekyll-theme"
 
-gem "jekyll-remote-theme"
-
