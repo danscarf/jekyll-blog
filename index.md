@@ -1,7 +1,7 @@
 ---
 title: Joe Shmoe's Home
 feature_text: |
-  ## Alembic
+  ## Software, Music and more!
   Welcome to Joe Shmoe's personal corner of the web.
 feature_image: "https://picsum.photos/1300/400?image=989"
 excerpt: "This site is a starting point for me to describe my projects."
